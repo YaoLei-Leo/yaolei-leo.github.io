@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiences on Yao LEI (Leo) GithubPage</title>
+    <link>https://yaolei-leo.github.io/experience/</link>
+    <description>Recent content in Experiences on Yao LEI (Leo) GithubPage</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Dec 2024 16:00:41 +0800</lastBuildDate>
+    <atom:link href="https://yaolei-leo.github.io/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bachelor of Science in biotechnology</title>
+      <link>https://yaolei-leo.github.io/experience/bsc/</link>
+      <pubDate>Tue, 31 Dec 2024 16:00:41 +0800</pubDate>
+      <guid>https://yaolei-leo.github.io/experience/bsc/</guid>
+      <description>&lt;h1 id=&#34;nankai-university&#34;&gt;Nankai University&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Doctor of Philosophy in Bioinformatics</title>
+      <link>https://yaolei-leo.github.io/experience/phd/</link>
+      <pubDate>Tue, 31 Dec 2024 16:00:41 +0800</pubDate>
+      <guid>https://yaolei-leo.github.io/experience/phd/</guid>
+      <description>&lt;h1 id=&#34;the-university-of-hong-kong&#34;&gt;The University of Hong Kong&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>Master of Philosophy in Bioinformatics</title>
+      <link>https://yaolei-leo.github.io/experience/mphil/</link>
+      <pubDate>Tue, 31 Dec 2024 16:00:41 +0800</pubDate>
+      <guid>https://yaolei-leo.github.io/experience/mphil/</guid>
+      <description>&lt;h1 id=&#34;the-university-of-hong-kong&#34;&gt;The University of Hong Kong&lt;/h1&gt;</description>
+    </item>
+  </channel>
+</rss>
