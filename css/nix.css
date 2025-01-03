@@ -22,7 +22,7 @@ img {
   	min-height: 100vh;
   	flex-direction: column;
 	justify-content: space-between;
-	padding-top: 70px;
+	padding-top: 100px;
 }
 
 #green-terminal {
@@ -53,8 +53,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #user-name {
-	font-size: 5rem;
-	text-transform: uppercase;
+	font-size: 4rem;
 }
 
 .user-description {
