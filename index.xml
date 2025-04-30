@@ -2,53 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yao LEI (Leo) GithubPage</title>
-    <link>https://yaolei-leo.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Yao LEI (Leo) GithubPage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Dec 2024 16:56:07 +0800</lastBuildDate>
-    <atom:link href="https://yaolei-leo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2024Sep-now: Exchange PhD Student in The Chinese University of Hong Kong (ShenZhen)</title>
-      <link>https://yaolei-leo.github.io/experience/exchange/</link>
+      <title>Distinct genetic risk loci between biopsy-proven renal and non-renal lupus: a 10-year longitudinal cohort. (Oxford Rheumatology)</title>
+      <link>http://localhost:1313/experience/4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yaolei-leo.github.io/experience/exchange/</guid>
-      <description>&lt;h1 id=&#34;the-chinese-university-of-hong-kong-shenzhen&#34;&gt;The Chinese University of Hong Kong (ShenZhen)&lt;/h1&gt;</description>
+      <guid>http://localhost:1313/experience/4/</guid>
+      <description>&lt;p&gt;Systemic lupus erythematosus (SLE) is a prototypical autoimmune disease that can affect multiple organ systems. Lupus nephritis (LN), characterized by inflammation of the kidneys, is a severe subtype of SLE. In this study, using 10 years of clinical follow-up data, we classified patients into LN and non-nephritic (NLN) groups. First, we replicated the finding that the LN group has a higher distribution of polygenic risk scores compared to the NLN group. We also identified that loci in HLA region, TNFAIP3, and BLK are significantly associated with the LN group but not in NLN group. Furthermore, using heterogeneity testing, we found that loci in ELF1, OX40, DUSP22, and TPCN2 differ significantly between the LN and NLN groups.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>2022Nov-now: Doctor of Philosophy in Bioinformatics</title>
-      <link>https://yaolei-leo.github.io/experience/phd/</link>
+      <title>Identification of common and rare variants that associated with growth hormone deficiency using whole-genome sequencing.</title>
+      <link>http://localhost:1313/experience/5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yaolei-leo.github.io/experience/phd/</guid>
-      <description>&lt;h1 id=&#34;the-university-of-hong-kong&#34;&gt;The University of Hong Kong&lt;/h1&gt;</description>
+      <guid>http://localhost:1313/experience/5/</guid>
+      <description>&lt;p&gt;Growth hormone deficiency (GHD) is a subtype of human short stature caused by insufficient growth hormone production. Although human height is a complex trait, GHD is often considered a Mendelian disease. In this study, using the our in-house WGS as control, we plan to collect whole-genome sequencing (WGS) data from 1,200 GHD patients and perform genome-wide association studies (GWAS) and rare variant association studies (RVAS) to identify common and rare variants or genes associated with GHD.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>2020Aug-2022Sep: Master of Philosophy in Bioinformatics</title>
-      <link>https://yaolei-leo.github.io/experience/mphil/</link>
+      <title>Identification of common and rare variants that associated with systemic lupus erythematosus using whole-genome sequencing.</title>
+      <link>http://localhost:1313/experience/6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/6/</guid>
+      <description>&lt;p&gt;Systemic lupus erythematosus (SLE) is a complex autoimmune disease. Numerous genome-wide association studies (GWAS) have been conducted, and more than 300 common loci have been reported to be associated with SLE. However, these loci explain only a limited proportion of the disease&amp;rsquo;s heritability. The goal of this study is to uncover the missing heritability of SLE. In collaboration with the Hong Kong Genome Institute, West China Hospital of Sichuan University, and Jining Medical University, we collected whole-genome sequencing (WGS) data from 2,000 SLE patients and 40,000 control individuals. Through this study, we aim to identify common and rare genetic variants and loci for SLE.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Association of genetic variation on X chromosome with systemic lupus erythematosus in both Thai and Chinese populations. (BMJ lupus science &amp; Medicine)</title>
+      <link>http://localhost:1313/experience/3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/3/</guid>
+      <description>&lt;p&gt;Genome-wide association study (GWAS) is a well-established method for identifying loci associated with human complex diseases. Several GWAS have been conducted on the X chromosome to discover candidate loci for systemic lupus erythematosus (SLE). However, studies in the Thai population are still lacking. In this study, we collected SNP array data from Thai individuals and performed X chromosome-specific GWAS, combining these data with our in-house Hong Kong cohort. We successfully replicated previously reported loci, including TEME187-IRAK-MECP2, PRPS2, TLR7, and GPR173, and identified two novel candidate loci associated with SLE: LOC389895-SOX3 and CT83-KLHL13. Additionally, we confirmed a higher frequency of trisomy X among SLE patients compared to controls in both the Thai and Hong Kong populations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Phenotype-based prioritization enhances diagnosis rate of patients with Titinopathy. (Manuscript preparing)</title>
+      <link>http://localhost:1313/experience/2/</link>
       <pubDate>Tue, 31 Dec 2024 16:00:41 +0800</pubDate>
-      <guid>https://yaolei-leo.github.io/experience/mphil/</guid>
-      <description>&lt;h1 id=&#34;the-university-of-hong-kong&#34;&gt;The University of Hong Kong&lt;/h1&gt;</description>
+      <guid>http://localhost:1313/experience/2/</guid>
+      <description>&lt;p&gt;Titinopathy is a Mendelian muscle disease caused by mutations in the TTN gene. However, due to the clinical and genetic heterogeneity of muscle diseases, mutations in TTN are often overlooked. To improve the diagnostic rate, we collected patients who had been clinically diagnosed with muscle diseases but in whom no confirmed causal mutations had been previously identified, and performed whole-genome sequencing (WGS). Using the latest phenotype-based prioritization strategies, we identified candidate causal variants in the TTN gene for approximately 40% of these patients.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>2015Sep-2019Jun: Bachelor of Science in biotechnology</title>
-      <link>https://yaolei-leo.github.io/experience/bsc/</link>
+      <title>Genome-wide association study on Northern Chinese identifies KLF2, DOT1L and STAB2 associated with systemic lupus erythematosus. (Oxford Rheumatology)</title>
+      <link>http://localhost:1313/experience/1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yaolei-leo.github.io/experience/bsc/</guid>
-      <description>&lt;h1 id=&#34;nankai-university&#34;&gt;Nankai University&lt;/h1&gt;</description>
-    </item>
-    <item>
-      <title>2024 year-end summary</title>
-      <link>https://yaolei-leo.github.io/posts/20241231/</link>
-      <pubDate>Tue, 31 Dec 2024 16:56:07 +0800</pubDate>
-      <guid>https://yaolei-leo.github.io/posts/20241231/</guid>
-      <description>&lt;h1 id=&#34;things-always-push-us-to-change-and-we-got-to-accept-it&#34;&gt;Things always push us to change, and we got to accept it.&lt;/h1&gt;&#xA;&lt;p&gt;Time flies, it&amp;rsquo;s the last day of 2024 today already. I still remember the momment at last year, Xuxu and I waited for the new year countdown in the Causeway Bay Sea Front, and enjoyed the astonished firework in the Victoria Harbour when entering 2024. Xuxu is back from US now, today we will cross the new year in Shenzhen Dayun.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/experience/1/</guid>
+      <description>&lt;p&gt;Systemic lupus erythematosus is a complex autoimmune disease. We collected SNP array data form 522 SLE and 1017 controls samples from Jining, Shandong Province, China. Genome-wide association study was performed on these samples, followed-by a meta-analysis that integrated our in-house Chinese and European SLE cohorts. Thought this analysis, we identified KLF2, DOT1L, and STAB2 as novel SLE associated loci.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://yaolei-leo.github.io/publication/</link>
+      <link>http://localhost:1313/contacts/</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contacts/</guid>
+      <description>&lt;h5 id=&#34;email-leiyao1997connecthkuhk-leiyao1997mailnankaieducn&#34;&gt;Email: &lt;a href=&#34;mailto:leiyao1997@connect.hku.hk&#34;&gt;leiyao1997@connect.hku.hk&lt;/a&gt;, &lt;a href=&#34;mailto:leiyao1997@mail.nankai.edu.cn&#34;&gt;leiyao1997@mail.nankai.edu.cn&lt;/a&gt;&lt;/h5&gt;&#xA;&lt;p&gt;Address: 1/F, Jockey Club Building, 5 Sassoon Road， Department of Paediatrics and Adolescent Medicine, The University of Hong Kong&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://yaolei-leo.github.io/publication/</guid>
-      <description>&lt;h1 id=&#34;publications&#34;&gt;Publications:&lt;/h1&gt;&#xA;&lt;p&gt;&lt;code&gt;[1]&lt;/code&gt; Wang, F. Q.#, Dang, X., Su, H., &lt;strong&gt;Lei, Y.&lt;/strong&gt;, She, C. H., Zhang, C., Chen, X., Yang, X., Yang, J., Feng, H., &amp;amp; Yang, W. (2024). Association of hyperactivated transposon expression with exacerbated immune activation in systemic lupus erythematosus. &lt;em&gt;&lt;strong&gt;Mobile DNA&lt;/strong&gt;&lt;/em&gt;, 15(1), 23. &lt;a href=&#34;https://doi.org/10.1186/s13100-024-00335-8&#34;&gt;https://doi.org/10.1186/s13100-024-00335-8&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;[2]&lt;/code&gt; Liu, Z.#, Shao, L.#, Hou, F.#, Li, W.#, Wang, Y. F., Feng, H., Wang, F. Q., &lt;strong&gt;Lei, Y.&lt;/strong&gt;, Zheng, L., Liang, R., Li, J., Guo, X., Zhang, L., Zhang, Y., Yang, J., Qin, X., Wei, W., Yang, X., Dang, X., Ma, W., … Yang, W. (2024). Transcriptomic features of systemic lupus erythematosus patients in flare and changes during acute in-hospital treatment. &lt;em&gt;&lt;strong&gt;Rheumatology (Oxford, England)&lt;/strong&gt;&lt;/em&gt;, 63(10), 2810–2818. &lt;a href=&#34;https://doi.org/10.1093/rheumatology/kead704&#34;&gt;https://doi.org/10.1093/rheumatology/kead704&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/publication/</guid>
+      <description>&lt;h1 id=&#34;publications&#34;&gt;Publications:&lt;/h1&gt;&#xA;&lt;p&gt;&lt;code&gt;[1]&lt;/code&gt; Cw Chan, S.#, &lt;strong&gt;Lei, Y.#&lt;/strong&gt;, Yh Yap, D., Pw Lee, P., Lai, W. M., Ky Ying, S., Mh Leung, A., Mok, C. C., Lee, K. L., Lau, C. S., Yang, W., &amp;amp; Li, P. H. (2025). Distinct genetic risk loci between biopsy-proven renal and non-renal lupus: a 10-year longitudinal cohort. &lt;em&gt;&lt;strong&gt;Rheumatology (Oxford, England)&lt;/strong&gt;&lt;/em&gt;, keaf027. Advance online publication. &lt;a href=&#34;https://doi.org/10.1093/rheumatology/keaf027&#34;&gt;https://doi.org/10.1093/rheumatology/keaf027&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;[2]&lt;/code&gt; Wang, F. Q.#, Dang, X., Su, H., &lt;strong&gt;Lei, Y.&lt;/strong&gt;, She, C. H., Zhang, C., Chen, X., Yang, X., Yang, J., Feng, H., &amp;amp; Yang, W. (2024). Association of hyperactivated transposon expression with exacerbated immune activation in systemic lupus erythematosus. &lt;em&gt;&lt;strong&gt;Mobile DNA&lt;/strong&gt;&lt;/em&gt;, 15(1), 23. &lt;a href=&#34;https://doi.org/10.1186/s13100-024-00335-8&#34;&gt;https://doi.org/10.1186/s13100-024-00335-8&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
