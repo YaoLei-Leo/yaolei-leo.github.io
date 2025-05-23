@@ -8,15 +8,15 @@ html {
 
 @font-face {
 	font-family: 'Comic Sans MS';
-	src: url('/fonts/Comic\ Sans\ MS.ttf') format('truetype');
-  }
+	src: url('/fonts/comic_sans_ms.ttf') format('truetype');
+}
   
 
 body {
 	background-color: #fdfdfd;
 	height: 100%;
 	/* font-family: 'Open Sans', sans-serif; */
-	font-family: 'Comic Sans MS', 'Comic Neue', cursive;
+	font-family: 'Comic Sans MS';
 	padding-left: 20px;
 	padding-right: 20px;
 }
