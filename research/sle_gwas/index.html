@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> Common variants GWAS analysis in Systemic lupus erythematosus (SLE) &middot; Yao LEI (Leo) GithubPage </title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Hugo 0.140.1">
+
+
+
+
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
+
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4" crossorigin="anonymous"></script>
+
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.7.1/css/all.css" integrity="sha384-QI8z31KmtR+tk1MYi0DfgxrjYgpTpLLol3bqZA/Q1Y8BvH+6k7/Huoj38gQOaCS7" crossorigin="anonymous">
+
+
+<link rel="stylesheet" href="https://yaolei-leo.github.io/css/nix.css">
+
+
+
+<link rel="shortcut icon" href="/favicon/Favicon-32x32.png">
+
+
+
+<link href="https://fonts.googleapis.com/css?family=Inconsolata%7COpen+Sans%7CConcert+One" rel="stylesheet">
+
+
+
+
+
+
+</head>
+
+<body>
+    <header>
+	<nav class="navbar navbar-dark bg-dark fixed-top navbar-expand-lg font-header">
+		<div class="container-fluid">
+			<a class="navbar-brand" id="green-terminal" href='https://yaolei-leo.github.io/'>
+				YaoLei@ResearchWebsite ~ $
+			</a>
+			<button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbar-collapse-1" 
+					aria-controls="navbar-collapse-1" aria-expanded="false">
+				<span class="visually-hidden">Toggle navigation</span>
+				<span class="navbar-toggler-icon"></span>
+			</button>
+
+			
+			<div class="collapse navbar-collapse" id="navbar-collapse-1">
+				<ul class="nav navbar-nav ms-auto">
+					<li class="nav-item">
+						<a class="nav-link" href='https://yaolei-leo.github.io/'>
+							Home</a>
+					</li>
+					
+					
+					
+					<li class="nav-item dropdown">
+						
+						<a class="nav-link" href="https://yaolei-leo.github.io/research/">Research</a>
+						
+					</li>
+					
+					
+					<li class="nav-item dropdown">
+						
+						<a class="nav-link" href="https://yaolei-leo.github.io/publication/">Publication</a>
+						
+					</li>
+					
+					
+					<li class="nav-item dropdown">
+						
+						<a class="nav-link" href="https://yaolei-leo.github.io/software/">Software</a>
+						
+					</li>
+					
+					
+					<li class="nav-item dropdown">
+						
+						<a class="nav-link" href="https://yaolei-leo.github.io/cv/">CV</a>
+						
+					</li>
+					
+				</ul>
+			</div>
+		</div>
+	</nav>
+</header>
+
+    <div class="flex-wrapper">
+        <div class="container wrapper">
+            <h3><a href="https://yaolei-leo.github.io/research/sle_gwas/">Common variants GWAS analysis in Systemic lupus erythematosus (SLE)</a></h3>
+            <br>
+            
+            <div class="post-content">
+                <p>SLE is a complex autoimmune disease with high genetic heretabilty. Prof. Wanling Yang&rsquo;s group is dedicated to the genomic and transcriptomic research of SLE. During my study in Prof. Yang&rsquo;s lab, I have been involved in mutlitple projects of SLE common variants GWAS analysis.</p>
+<br>
+<h4 id="1-identification-of-klf2-stab2-and-dotl1-loci-in-sle">1. Identification of <em>KLF2</em>, <em>STAB2</em>, and <em>DOTL1</em> loci in SLE.</h4>
+<p>My first jobs in the lab was analyzing a cohort of SLE SNP array data from the Jining Medical College affilicated hospital. It is a small cohort with 512 cases and 994 controls after quality control. Analysis was perfored using standard GWAS pipeline. However, no novel locus was identified due to the limited sample size. As shown in Fig 1, only <em>GTF2I</em> gene locus was identified with genome-wide significance (P value &lt; 5E-8). Some known SLE loci, including <em>HLA</em>, <em>STAT4</em>, <em>TNFSF4</em>, and <em>BLK</em>, were identified with suggestive significance (P value &lt; 1E-5).
+<br><br>
+<img src="JNSLE_ManhattanPlot.png" alt="Img Not Found" width="80%" style="display: block; margin-left:auto; margin-right:auto; border: 1px dashed #DEDEDE; padding: 10px"/></p>
+<figcaption>Fig 1. Manhattan plot of JN SLE GWAS analysis result.</figcaption>
+<br><br>
+<p>Luckly, GWAS analysis results from independent cohorts could be combined to increase the sample size and power. There are lot of SLE SNP data available in Prof. Yang&rsquo;s lab. Therefore, I performed a meta-analysis of SLE GWAS summary statistics by combining the results from East Asian (EAS) cohort, which includes data from Jining Medical College, Hong Kong , Guang Zhou, and An Hui&rsquo;s. A comparison of EAS and European (EUR) cohort was also performed. STAB2 and DOTL1 loci were identified surpass P-value &lt; 5E-8 in both EAS and EUR cohort. KLF2 locus was identified with genome-wide significance in EAS cohort only. The results were shown in Fig 2.</p>
+<br>
+<img src="KLF2_STAB2_DOTL1.png" alt="Img Not Found" width="90%" style="display: block; margin-left:auto; margin-right:auto; border: 1px dashed #DEDEDE; padding: 10px"/>
+<figcaption>Fig 2. LocusZoom plots for <em>KLF2</em>, <em>STAB2</em>, and <em>DOTL1</em>.</figcaption>
+<br>
+<p>Publication of this work could be find here: <a href="https://doi.org/10.1093/rheumatology/keaf027" target="_blank">Oxford Rheumatology</a>.</p>
+<br>
+<h4 id="2-x-chromosome-and-sle">2. X chromosome and SLE.</h4>
+<p>SLE is well known to higher prevalence in females with 9:1 onset ratio. Therefore, X chromosome is a capativating region for SLE genetic research. One of research in Prof. Yang&rsquo;s team has reported <em>GPR173</em> locus on X chromosome is associated with SLE, and showed a candidate idependent novel signal in <em>L1CAM-IRAK1-MECP2</em> region in Asian population. Inspired by this work, our collaborator from Chulalongkorn University shared their X chromosome SNP array data with us.</p>
+<p><br><br>
+To be continued&hellip;</p>
+            </div>
+            
+            
+        </div>
+        <footer class="footer">
+	<p>
+		Copyright &copy; 2025 Yao LEI (Leo)
+	</p>
+</footer>
+
+    </div>
+</body>

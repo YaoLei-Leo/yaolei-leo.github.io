@@ -86,7 +86,8 @@ i:hover {
 }
 
 .post-link {
-	float: left;
+	/* float: left; */
+	text-align: center;
 }
 
 .post-date {
@@ -243,9 +244,21 @@ a:link {
 	transition: background-size 0.3s ease;
   }
 
+
+a:visited {
+	color: #1b619b; /* Change this to your desired visited color */
+	background-image: linear-gradient(currentColor, currentColor);
+	background-size: 0% 2px;
+	background-position: center 100%;
+	background-repeat: no-repeat;
+	transition: background-size 0.3s ease;
+}
+	
+
 a:hover {
 	background-size: 100% 2px;
 }
+
 
 a.social {
 	background-image: none;
@@ -284,6 +297,22 @@ transition: width 0.3s ease;
 
 .container-fluid:has(.navbar-brand:hover)::after {
 	width: 100%;
+}
+
+figcaption {
+	text-align: center;
+	font-family: 'Helvetica Neue', cursive;
+}
+
+.featured-img {
+	width: 80%;
+	height: auto;
+
+	display: block;
+	/* border: 1px dashed #DEDEDE; */
+	margin-left:auto; 
+	margin-right:auto;
+	padding: 10px
 }
 
 /*

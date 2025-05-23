@@ -2,24 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yaolei-leo.github.io/research/4/</loc>
+    <loc>https://yaolei-leo.github.io/research/sle_gwas/</loc>
   </url><url>
-    <loc>https://yaolei-leo.github.io/research/5/</loc>
+    <loc>https://yaolei-leo.github.io/research/scrna_kidneytransplant/</loc>
   </url><url>
-    <loc>https://yaolei-leo.github.io/research/6/</loc>
-  </url><url>
-    <loc>https://yaolei-leo.github.io/research/3/</loc>
-  </url><url>
-    <loc>https://yaolei-leo.github.io/research/2/</loc>
-    <lastmod>2024-12-31T16:00:41+08:00</lastmod>
-  </url><url>
-    <loc>https://yaolei-leo.github.io/research/1/</loc>
-  </url><url>
-    <loc>https://yaolei-leo.github.io/research/</loc>
-    <lastmod>2024-12-31T16:00:41+08:00</lastmod>
-  </url><url>
-    <loc>https://yaolei-leo.github.io/</loc>
-    <lastmod>2024-12-31T16:00:41+08:00</lastmod>
+    <loc>https://yaolei-leo.github.io/research/sle_wgs/</loc>
   </url><url>
     <loc>https://yaolei-leo.github.io/cv/cv/</loc>
   </url><url>
@@ -31,6 +18,10 @@
   </url><url>
     <loc>https://yaolei-leo.github.io/cv/</loc>
   </url><url>
+    <loc>https://yaolei-leo.github.io/research/</loc>
+  </url><url>
     <loc>https://yaolei-leo.github.io/tags/</loc>
+  </url><url>
+    <loc>https://yaolei-leo.github.io/</loc>
   </url>
 </urlset>
