@@ -10,7 +10,7 @@ body {
 	background-color: #fdfdfd;
 	height: 100%;
 	/* font-family: 'Open Sans', sans-serif; */
-	font-family: 'Inconsolata', monospace;
+	font-family: 'Helvetica Neue', cursive, 'Comic Sans MS', 'Bradley Hand', cursive;
 	padding-left: 20px;
 	padding-right: 20px;
 }
@@ -29,12 +29,12 @@ body {
 }
 
 .font-header {
-	font-family: 'Helvetica Neue', cursive;
+	font-family: 'Helvetica Neue', cursive, 'Comic Sans MS', 'Bradley Hand', cursive;
 }
 
 .font-paragraph {
-	/* font-family: 'Open Sans', sans-serif; */
-	font-family: 'Helvetica Neue', cursive;
+
+	font-family: 'Helvetica Neue', cursive, 'Comic Sans MS', 'Bradley Hand', cursive;
 }
 
 nav {
@@ -49,7 +49,7 @@ nav {
 }
 
 h1,h2,h3,h4,h5,h6 {
-	font-family: 'Helvetica Neue', cursive;
+	font-family: 'Helvetica Neue', cursive, 'Comic Sans MS', 'Bradley Hand', cursive;
 }
 
 #user-name {
@@ -200,7 +200,7 @@ td {
 }
 
 p {
-	font-family: "Helvetica Neue", cursive;
+	font-family: "Helvetica Neue", cursive, 'Comic Sans MS', 'Bradley Hand', cursive;
 	margin-bottom: 0;
 	text-align: justify;
 	direction: ltr;
@@ -301,7 +301,7 @@ transition: width 0.3s ease;
 
 figcaption {
 	text-align: center;
-	font-family: 'Helvetica Neue', cursive;
+	font-family: 'Helvetica Neue', cursive, 'Comic Sans MS', 'Bradley Hand', cursive;
 }
 
 .featured-img {
